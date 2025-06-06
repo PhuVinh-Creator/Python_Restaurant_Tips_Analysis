@@ -16,8 +16,6 @@ The dataset consists of information from 244 restaurant bills, collected in the 
 
 It includes details about the tips given to restaurant staff, such as the total bill, tip amount, gender of the person paying, smoking status, day of the week, time of day, and party size.
 
-How to access or download the data if it's not included in the repository
-
 The main goals
 
 ## 3. Results
