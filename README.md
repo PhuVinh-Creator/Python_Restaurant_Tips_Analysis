@@ -7,7 +7,7 @@ This project aims to use the restaurant tips dataset to practice creating compos
 
 ## 2. Data description
 
-### Sources
+### Sources:
 - Template: https://colab.research.google.com/drive/1TpyZNqmoa2y_kmNK8Osj3fIrc6iqtkil?usp=sharing
 - Dataset: https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 
@@ -20,4 +20,4 @@ It includes details about the tips given to restaurant staff, such as the total 
 
 
 ## 3. Results
-## 4. Summary. 
+## 4. Summary
