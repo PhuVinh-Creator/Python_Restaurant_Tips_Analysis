@@ -16,7 +16,7 @@ This project aims to use the restaurant tips dataset to practice creating compos
 
 - It includes details about the tips given to restaurant staff, such as the total bill, tip amount, gender of the person paying, smoking status, day of the week, time of day, and party size.
 
-5 first rows retrieved from dataset
+First five rows retrieved from dataset
 
 ![image](https://github.com/user-attachments/assets/875ce694-7bd6-486b-a68d-8e200f3e6326)
 
