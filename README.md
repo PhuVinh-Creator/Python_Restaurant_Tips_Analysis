@@ -16,6 +16,9 @@ This project aims to use the restaurant tips dataset to practice creating compos
 
 - It includes details about the tips given to restaurant staff, such as the total bill, tip amount, gender of the person paying, smoking status, day of the week, time of day, and party size.
 
+5 first rows retrieved from dataset
+![image](https://github.com/user-attachments/assets/875ce694-7bd6-486b-a68d-8e200f3e6326)
+
 ### The main goals:
 - Make comparisons between the whole dataset and specific characteristics of customers dining in the restaurant
 
@@ -24,5 +27,15 @@ This project aims to use the restaurant tips dataset to practice creating compos
 - Visualize the findings and draw a conclusion
 
 ## 3. Results
+![image](https://github.com/user-attachments/assets/b4bcd77c-2978-484e-8df3-9683d3cef594)
+![image](https://github.com/user-attachments/assets/3bd78b7a-52b0-43c2-885c-f3ef4fcc4919)
+
+General conclusion: Smokers, on average, tend to leave slightly higher tips compared to people don't smoke.
+
+![image](https://github.com/user-attachments/assets/1cdccf42-8794-4aac-b577-d54e34d396a4)
+![image](https://github.com/user-attachments/assets/65fa266f-d76b-4192-b954-d815ffa0c4c7)
+
+General conclusion: Male customers, on average, tend to leave slightly higher tips compared to female customers.
+
 
 
