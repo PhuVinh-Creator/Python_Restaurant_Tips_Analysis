@@ -28,15 +28,26 @@ First five rows retrieved from dataset
 - Visualize the findings and draw a conclusion
 
 ## 3. Results
+### 🚬 Smoking traits
 ![image](https://github.com/user-attachments/assets/b4bcd77c-2978-484e-8df3-9683d3cef594)
 ![image](https://github.com/user-attachments/assets/3bd78b7a-52b0-43c2-885c-f3ef4fcc4919)
 
 General conclusion: Smokers, on average, tend to leave slightly higher tips compared to people don't smoke.
 
+### ♀️♂️ Gender behavior
 ![image](https://github.com/user-attachments/assets/1cdccf42-8794-4aac-b577-d54e34d396a4)
 ![image](https://github.com/user-attachments/assets/65fa266f-d76b-4192-b954-d815ffa0c4c7)
 
 General conclusion: Male customers, on average, tend to leave slightly higher tips compared to female customers.
 
+### 🏖️ Weekends and weekdays
+![image](https://github.com/user-attachments/assets/0c7f704c-80b7-4238-be7d-2607bea9fc60)
+![image](https://github.com/user-attachments/assets/add9b4de-502e-4bf7-905c-78df68b37097)
 
+General conclusion: Customers on weekends, on average, tend to leave slightly higher tips compared to customers on other days.
 
+### 🍽️ Dinner and other meals
+![image](https://github.com/user-attachments/assets/f036e390-42ae-4072-ae35-a58d6082db4f)
+![image](https://github.com/user-attachments/assets/22a77aaa-7838-4315-ab5a-6a15218f7df4)
+
+General conclusion: Customers during dinner time, on average, tend to leave significantly higher tips compared to customers during other times.
