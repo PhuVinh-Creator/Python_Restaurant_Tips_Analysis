@@ -1,5 +1,5 @@
 # Python_Restaurant_Tips_Analysis
-*See more in file
+**See more in file*
 ![image](https://github.com/user-attachments/assets/49c22b81-b417-404f-9683-ec368b439885)
 
 ## 1. Description of my projects
