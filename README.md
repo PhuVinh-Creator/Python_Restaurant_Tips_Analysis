@@ -1,6 +1,6 @@
 # Python_Restaurant_Tips_Analysis
 ![image](https://github.com/user-attachments/assets/49c22b81-b417-404f-9683-ec368b439885)
--------------------------------------------------------**See more in file*-------------------------------------------------------
+**See more in file*
 
 ## 1. Description of my projects
 This project aims to use the restaurant tips dataset to practice creating composition plots and visualizations. We will examine the relationship between different variables and the tips given.
